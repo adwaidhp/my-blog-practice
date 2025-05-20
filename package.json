@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Successfully tested\""
   },
+  "dependencies": {
+    "lodash":"4.17.11"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
